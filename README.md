@@ -10,8 +10,6 @@ Em 2023, inicie o curso de Análise e Desenvolvimento de Sistemas, na Ulbra Torr
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olupim/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_lupim)
 
-![oLupim GitHub stats](https://github-readme-stats.vercel.app/api?username=oLupim&show_icons=true&theme=holi)
-
 <!-- <div>
     <img align="right" src="https://i.gifer.com/origin/98/981a0699b20e5b7dce3f73e2c6ce9b76_w200.gif" width="150px">
 </div> -->
